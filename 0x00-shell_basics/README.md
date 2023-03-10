@@ -1,1 +1,1 @@
-script that prints the absolute path name of the current directory
+Display current directory contents, including hidden files(starting with .).Use the long format
