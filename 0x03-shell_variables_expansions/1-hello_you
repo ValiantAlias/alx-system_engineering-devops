@@ -1,2 +1,3 @@
 #!/bin/bash
-printf "hello user\n"
+NAME=user
+echo "hello $NAME"
