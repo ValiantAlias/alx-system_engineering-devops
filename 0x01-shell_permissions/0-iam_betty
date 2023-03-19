@@ -1,2 +1,2 @@
 #!/bin/bash
-su whoami betty
+su betty
